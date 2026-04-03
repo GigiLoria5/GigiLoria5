@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- 🔭 Currently crafting APIs and taming the cloud  
-- 🌱 Learning something new every day; currently nerding out on AWS and NestJS  
+- 🔭 Turning ideas into web applications
+- 🌱 Always learning, currently deep into Django and Vue
 - 👯 Open to collaborations (bonus points if a pizza is involved 🍕)  
 - ⚡ Fun fact: My debugging skills are so sharp, they once found a missing semicolon in someone else’s dream  
 
